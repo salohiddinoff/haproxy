@@ -20,7 +20,7 @@
         sudo nano /etc/haproxy/haproxy.cfg
 
 
-    For K8S
+_**For K8S**_
 
         global
           maxconn 100000
