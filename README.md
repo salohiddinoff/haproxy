@@ -107,3 +107,6 @@ _**For K8S**_
           server worker-node02 10.100.100.2:443 check port 443
           server worker-node03 10.100.100.3:443 check port 443
   
+Show HAproxy logs
+
+        nano -f /var/log/haproxy.log
